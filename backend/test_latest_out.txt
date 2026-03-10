@@ -1,0 +1,2 @@
+Model gemini-flash-latest Status: 200
+Data snippet: {"candidates":[{"content":{"parts":[{"text":"Hello! How can I help you today?","thoughtSignature":"Ep4CCpsCAb4+9vuKRlgLIayWS4q/wPRJN4a0MyLghY8jT7x3GuNZ85bQgLrYefk1JMD/XndC6dQjcaibTViNIsjYVWyiar++DwHb6PFnpvDF/CUjf4KEYnIgFx+csMboEwaGUg3V7qeLI6zDyrX5TWNfsvnn6ZOCJB70Gnjmx887VKY0jOidaleJkXHpuT1sI5sarBE6/Pf/uualUoCmr2ow0nO3ZqRGP17RuMbrKSt+b8Hg4Bz7WLxJWpZbOvFIgPTuA1vcomL5CF4/VeOK9KAYSd42WichIFN0QhQRKwP8wYwneL4p4v6g8kVCZwspRzFDPZPc/8MXXAwaTY0MW/TR+PkgqbmdNh3K3oFKOU0gJ6pV7NnhZWqozR8N1/0KPg=="}],"role":"m

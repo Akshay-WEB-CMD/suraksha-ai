@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.pytest_cache/
+
+# Models (Keep them local if they are too big, but yours are small enough)
+# *.h5
+# *.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Repo Clone
+pothole_detection_repo/

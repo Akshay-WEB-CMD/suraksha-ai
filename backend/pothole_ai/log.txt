@@ -1,0 +1,12 @@
+??? Error loading Pothole model: pop expected at most 1 argument, got 2
+??? EasyOCR Reader initialized.
+ * Serving Flask app 'app'
+ * Debug mode: on
+??? Error loading Pothole model: pop expected at most 1 argument, got 2
+??? EasyOCR Reader initialized.
+??? Error loading Pothole model: pop expected at most 1 argument, got 2
+??? EasyOCR Reader initialized.
+??? Error loading Pothole model: pop expected at most 1 argument, got 2
+??? EasyOCR Reader initialized.
+??? Error loading Pothole model: pop expected at most 1 argument, got 2
+??? EasyOCR Reader initialized.
